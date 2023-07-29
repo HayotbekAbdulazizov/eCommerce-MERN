@@ -1,0 +1,5 @@
+shared/node_modules
+auth/dist
+auth/node_modules
+main-api/dist
+main-api/node_modules
